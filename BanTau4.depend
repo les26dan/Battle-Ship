@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1620053472 source:c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\common_func.cpp
+	"Common_Func.h"
+
+1620063615 c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\common_func.h
+	<random>
+	<chrono>
+	<iostream>
+	<stdio.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"SDL_untils.h"
+	"Menu.h"
+	"Ships.h"
+	"Buttons.h"
+	"Bot.h"
+	"Rematch.h"
+
+1619363770 c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\sdl_untils.h
+	"Common_Func.h"
+
+1619601690 c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\ships.h
+	"Common_Func.h"
+
+1620104391 source:c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\main.cpp
+	"Common_Func.h"
+
+1620061744 source:c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\sdl_untils.cpp
+	"SDL_untils.h"
+
+1620048786 source:c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\ships.cpp
+	"Ships.h"
+
+1620063648 source:c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\buttons.cpp
+	"Buttons.h"
+
+1619601696 c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\buttons.h
+	"Common_Func.h"
+
+1619081051 c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\bot.h
+	"Common_Func.h"
+
+1620053505 source:c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\bot.cpp
+	"Bot.h"
+
+1619698552 source:c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\menu.cpp
+	"menu.h"
+
+1619601708 c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\menu.h
+	"Common_Func.h"
+
+1619603630 c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\rematch.h
+	"Common_Func.h"
+
+1619695631 source:c:\users\administrator\onedrive\máy tính\uet doc\lap trinh nang cao\bantau4\rematch.cpp
+	"menu.h"
+
+1620053505 source:c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\bot.cpp
+	"Bot.h"
+
+1619081051 c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\bot.h
+	"Common_Func.h"
+
+1620063615 c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\common_func.h
+	<random>
+	<chrono>
+	<iostream>
+	<stdio.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"SDL_untils.h"
+	"Menu.h"
+	"Ships.h"
+	"Buttons.h"
+	"Bot.h"
+	"Rematch.h"
+
+1619363770 c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\sdl_untils.h
+	"Common_Func.h"
+
+1619601708 c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\menu.h
+	"Common_Func.h"
+
+1619601690 c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\ships.h
+	"Common_Func.h"
+
+1619601696 c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\buttons.h
+	"Common_Func.h"
+
+1619603630 c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\rematch.h
+	"Common_Func.h"
+
+1620063648 source:c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\buttons.cpp
+	"Buttons.h"
+
+1620053472 source:c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\common_func.cpp
+	"Common_Func.h"
+
+1620104391 source:c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\main.cpp
+	"Common_Func.h"
+
+1619698552 source:c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\menu.cpp
+	"menu.h"
+
+1619695631 source:c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\rematch.cpp
+	"menu.h"
+
+1620061744 source:c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\sdl_untils.cpp
+	"SDL_untils.h"
+
+1620048786 source:c:\users\administrator\onedrive\máy tính\uetdoc\lap trinh nang cao\bantau4\ships.cpp
+	"Ships.h"
+
+1620053505 source:e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\bot.cpp
+	"Bot.h"
+
+1619081051 e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\bot.h
+	"Common_Func.h"
+
+1652979581 e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\common_func.h
+	<random>
+	<chrono>
+	<iostream>
+	<stdio.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"SDL_untils.h"
+	"Menu.h"
+	"Ships.h"
+	"Buttons.h"
+	"Bot.h"
+	"Rematch.h"
+
+1619363770 e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\sdl_untils.h
+	"Common_Func.h"
+
+1619601708 e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\menu.h
+	"Common_Func.h"
+
+1619601690 e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\ships.h
+	"Common_Func.h"
+
+1619601696 e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\buttons.h
+	"Common_Func.h"
+
+1619603630 e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\rematch.h
+	"Common_Func.h"
+
+1620063648 source:e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\buttons.cpp
+	"Buttons.h"
+
+1652981883 source:e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\common_func.cpp
+	"Common_Func.h"
+
+1620104391 source:e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\main.cpp
+	"Common_Func.h"
+
+1619698552 source:e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\menu.cpp
+	"menu.h"
+
+1619695631 source:e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\rematch.cpp
+	"menu.h"
+
+1620061744 source:e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\sdl_untils.cpp
+	"SDL_untils.h"
+
+1620048786 source:e:\study\uetdoc\nam1\lap trinh nang cao\bantau4\ships.cpp
+	"Ships.h"
+

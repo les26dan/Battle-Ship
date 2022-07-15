@@ -1,11 +1,10 @@
-# The big project of 
 * Student: Lê Sỹ Đan - 20020044
 * Game: Battle Ship
 
 ## Introduction Game 
 
 * Battle ship là game mô phỏng chiến thuật, người chơi tiến hành xếp đội hình chiến hạm, sau đó hai bên bắn vào các ô trên bản đồ
-* Mở đầu game có hướng dẫn chơi, menu chọn Play hoặc Exit game.
+*Game không chỉ đòi hỏi người chơi phải có tài quản lý quân đội và tài nguyên nhưng trong các game dàn trận khác mà còn đề cao tính chiến thuật. Người chơi chỉ có thể chiến thắng nếu đưa ra chiến thuật hợp lý và biết cách phối hợp các đơn vị với nhau một cách hiệu quả.
 
 
 ## 1) HƯỚNG DẪN CÀI ĐẶT: 
